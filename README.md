@@ -1,2 +1,1 @@
-# Crypto-Web-scraping
-This is a data analysis project designed to pull the current price of bit coin from a website. This can be important to a company due to analysis of products (if remade to do so).
+Please remember that TOS and legal restrictions might apply when using this code. Not all websites are okay with this process and have APIs. 
